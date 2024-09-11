@@ -1,0 +1,3 @@
+/home/malhaar-k/vscode-projects/cpp_tfSim/build/CMakeFiles/tfSim.dir
+/home/malhaar-k/vscode-projects/cpp_tfSim/build/CMakeFiles/edit_cache.dir
+/home/malhaar-k/vscode-projects/cpp_tfSim/build/CMakeFiles/rebuild_cache.dir
